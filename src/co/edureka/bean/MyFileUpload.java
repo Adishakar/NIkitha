@@ -11,6 +11,8 @@ public class MyFileUpload {
 	public List<MultipartFile> getMyFiles() {
 		return myFiles;
 	}
+	
+	
 
 	public void setMyFiles(List<MultipartFile> myFiles) {
 		this.myFiles = myFiles;
